@@ -1,0 +1,5 @@
+proxies:
+  - name: pkuvpn
+    type: socks5
+    server: 10.25.59.91
+    port: 7890
