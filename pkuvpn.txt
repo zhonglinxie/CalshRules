@@ -1,5 +1,9 @@
 proxies:
-  - name: pkuvpn
+  - name: pkuvpn1
     type: socks5
     server: 10.25.59.91
     port: 7890
+  - name: pkuvpn2
+    type: socks5
+    server: 43.140.214.164
+    port: 11080
