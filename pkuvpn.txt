@@ -3,8 +3,8 @@ proxies:
     type: socks5
     server: 10.25.59.174
     port: 10928
-    username: "openwrt"
-    password: "openwrt"
+    username: openwrt
+    password: openwrt
   - name: REN9000K
     type: socks5
     server: 10.25.59.91
