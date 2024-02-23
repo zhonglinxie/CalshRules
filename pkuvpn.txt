@@ -7,3 +7,9 @@ proxies:
     type: socks5
     server: 43.140.214.164
     port: 11080
+  - name: NX30Pro
+    type: socks5
+    server: 10.25.59.174
+    port: 10928
+    username: openwrt
+    password: openwrt
