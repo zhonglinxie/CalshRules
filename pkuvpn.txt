@@ -1,5 +1,5 @@
 proxies:
-  - name: H3C_N30Pro
+  - name: N30Pro
     type: socks5
     server: 10.25.59.174
     port: 10928
