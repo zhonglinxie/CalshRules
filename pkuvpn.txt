@@ -3,10 +3,6 @@ proxies:
     type: socks5
     server: 10.25.59.91
     port: 7890
-  - name: Tencent
-    type: socks5
-    server: 43.140.214.164
-    port: 11080
   - name: NX30 Pro
     type: socks5
     server: 10.25.59.136
