@@ -1,7 +1,7 @@
 proxies:
   - name: NX30 Pro
     type: socks5
-    server: 10.25.59.136
+    server: 10.25.59.1
     port: 10928
   - name: REN9000K
     type: socks5
