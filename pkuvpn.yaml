@@ -93,8 +93,12 @@ proxies:
     port: 10928
   - name: REN9000K
     type: socks5
-    server: 10.25.59.91
+    server: 100.83.36.145
     port: 7890
+  - name: OrangePi
+    type: socks5
+    server: 100.114.200.40
+    port: 1080
 proxy-groups:
   - name: PKU
     type: select
